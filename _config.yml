@@ -1,20 +1,19 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://gluekenb.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Gluekeng
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar: 89514d9200c538792a284f4122f66d49
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.</p>
+     <p>Henry Ford</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -25,24 +24,24 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "gluekeng"
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "gluekeng"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/gluekeng/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "gluekeng"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-15603377-2"
   disqus_shortname:
   muut_community_name: # From muut.com settings, e.g. "muttcommunityname"
   katex: true # Enable if using math markup
